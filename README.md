@@ -36,6 +36,9 @@ The .env file must contain the following:
 4. Pinata_JWT --> A JSON web token provided by Pinata to automate the IPFS process before minting
 
 **Credits**
+
 https://startbootstrap.com/theme/agency
+
 www.alchemy.com
+
 www.ethereum.org
