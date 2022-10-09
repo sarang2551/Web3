@@ -11,9 +11,9 @@ The frontend can be ran by launching the index.html file on a browser
 
 In order to mint an image use the "SUBMIT SERVICE" tab on the NavBar at the top of the page, select an image and click Submit
 
-The backend will then use Pinata APIs to run the IPFS service and then the ether.js library utilises the smart contract to mint the image
+The backend will then use [Pinata](https://app.pinata.cloud/) APIs to run the IPFS service and then the ether.js library utilises the smart contract to mint the image
 
-Finally the status of the minted image can be monitored through the Alchemy mempool. 
+Finally the status of the minted image can be monitored through the [Alchemy mempool](https://dashboard.alchemy.com/mempool). 
 
 
 **Setting up intructions**
