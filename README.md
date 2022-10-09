@@ -13,7 +13,7 @@ In order to mint an image use the "SUBMIT SERVICE" tab on the NavBar at the top 
 
 The backend will then use Pinata APIs to run the IPFS service and then the ether.js library utilises the smart contract to mint the image
 
-Finally the status of the minted image can be monitored through the Alchemcy mempool. 
+Finally the status of the minted image can be monitored through the Alchemy mempool. 
 
 
 **Setting up intructions**
